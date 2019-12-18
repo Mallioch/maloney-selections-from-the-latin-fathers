@@ -1,8 +1,6 @@
+# Texts
 
-
-TERTULLIANUS
-
-DE ORIGINE SPECTACULORUM
+## TERTULLIANUS - DE ORIGINE SPECTACULORUM
 
 I. De originibus quidem ut secretioribus et ignotis penes plures nostrorum altius nec aliunde investigandum fuit, quam de instrumentis ethnicarum literarum. Exstant auctores multi, qui super ista re commentarios ediderunt. Ab his ludorum origo sic traditur. Lydos ex Asia transvenas in Etruria consedisse, ut Timaeus refert, duce Tyrrhene, qui fratri suo cesserat regni contentione. Igitur in Etruria inter ceteros ritus superstitionum suarum spectacula quoque religionis nomine instituunt. Inde Romani accersitos artifices mutuantur, tempus, enuntiationenem, ut ludi a Lydis vocarentur. Sed etsi Varro ludos a ludo, id est a lusu interpretatur, sicut et Lupercos ludos appellabant, quod ludendo discurrant: tamen eum lusum iuvenum et diebus festis et templis et religionibus reputat. Nihil iam de causa vocabuli, cum rei causa idololatria sit. Nam et cum promiscue ludi Liberalia vocarentur, honorem Liberi patris manifeste sonabant. Libero enim a rusticis primo fiebant ob beneficium quod ei adscribunt pro demonstrata gratia vini. Exinde ludi Consualia dicti, qui initio Neptunum honorabant. Eundem enim et Consum vocabant. Dehinc Equiria Marti Romulus dixit; quamquam et Consualia Romulo defendunt, quod ea Conso dicaverit deo, ut volunt, consilii, eius scilicet, quo tunc Sabinarum virginum rapinam militibus suis in matrimonia excogitavit. Probum plane consilium et nunc quoque apud ipsos Romanos iustum et licitum, ne dixerim, penes deum. Facit etenim ad originis maculam, ne bonum existimes, quod initium a malo accepit, ab impudenti, a violenti, ab alio deo, a fratricida, institutore, a filio Martis : et nunc ara Conso illi in circo defossa est ad primas metas sub terra, cum inscriptione huiusmodi:
 
@@ -16,8 +14,7 @@ III. Communis igitur origo ludorum utriusque generis, communes et tituli, ut de 
 
 
 
-ST. CYPRIANUS
-DE IDOLORUM VANITATE
+## ST. CYPRIANUS - DE IDOLORUM VANITATE
 
 Quod Idola Dii non sint et quod Deus Unus sit et quod per Christum Salus credentibus data sit.
 
@@ -35,9 +32,7 @@ Horum autem omnium ratio est illa, quae fallit et decipit et praestigiis coecant
 
 
 
-LACTANTIUS
-
-DE MORTIBUS PERSECUTORUM
+## LACTANTIUS - DE MORTIBUS PERSECUTORUM
 
 I. Audivit dominus orationes tuas, Donate carissime, quas in conspectu eius constitutus fundere soles, imo et preces sanctissimorum martyrum, qui gloriosa confessione sempiternam sibi coronam pro fidei suae meritis quaesierunt. Ecce, deletis omnibus adversariis et restituta per orbem tranquillitate, profligata nuper Ecclesia rursum exsurgit, et maiore gloria templum Dei, quod ab impiis fuerat eversum, misericordia domini fabricatur. Excitavit enim deus principes, qui tyrannorum nefaria et cruenta imperia resciderunt et humano generi providerunt, ut iam quasi discusso transacti temporis nubilo, mentes omnium pax incunda et serena laetificet. Nunc post tantae tempestatis violentos turbines, placidus aer et optata lux refulsit; nunc placatus servorum suorum precibus deus iacentes et afflictos coelesti auxilio sublevavit; nunc moerentium lacrymas, exstincta impiorum conspiratione, de tersit. Qui illuctati erant deo, iacent; qui templum sanctum everterant, ruina maiore ceciderunt; qui iustos excarnificaverant, coelestibus plagis et cruciatibus meritis nocentes animas profuderunt. Sero id quidem, sed graviter ac digne. Distulerat enim poenas eorum deus, ut ederet in eos magna et mirabilia exempla, quibus posteri discerent, et deum esse unum, et eundem vindicem digna videlicet supplicia impiis ac persecutoribus irrogare. De quo exitu eorum testificari placuit, ut omnes, qui procul moti fuerunt, vel qui post nos futuri sunt, scirent, quatenus virtutem ac maiestatem suam in exstinguendis delendisque nominis sui hostibus deus summus ostenderit. Nunc tamen satis est si a principio, ex quo est ecclesia constituta, qui fuerint persecutores eius et quibus poenis in eos coelestis iudicis severitas vindicaverit, exponam.
 
@@ -51,10 +46,7 @@ V. Non multo post Valerianus quoque non dissimili furore correptus, impias manus
 
 VI. Aurelianus, qui esset natura vesanus et praeceps, quamvis captivitatem Valeriani meminisset, tamen oblitus sceleris eius et poenae, iram dei crudelibus factis lacessivit. Verum ille ne perficere quidem, quae cogitaverat, licuit, sed protinus inter initia sui furoris exstinctus est. Nondum ad provincias ulteriores cruenta eius scripta pervenerant, et iam Coenofrurio, qui locus est Thraciae, cruentus ipse humi iacebat, falsa quadam suspicione ab amicis suis interemtus. Talibus et tot exemplis coerceri posteriores tyrannos oportebat: at hi non modo territi non sunt, sed audacius etiam contra deum confidentiusque fecerunt.
 
-
-ST. HIERONYMUS
-
-AD MAGNUM ORATOREM URBIS ROMAE
+## ST. HIERONYMUS - AD MAGNUM ORATOREM URBIS ROMAE
 
 I. Sebesium nostrum tuis monitis profecisse, non tam Epistola tua, quam ipsius poenitudine didicimus. Et mirum in modum plus correptus placuit, quam errans laeserat. Certaverunt inter se indulgentia parentis, et filii pietas: dum alter praeteritorum non meminit, alter in futurum quoque officia pollicetur. Unde et mutuo nobis tibique gaudendum est: quia nos filium recepimus, tu discipulum comprobasti.
 
@@ -70,13 +62,7 @@ VI. Nec statim prava opinione fallaris, contra Gentes hoc esse licitum, in aliis
 
 
 
-ST. AMBROSIUS
-
-EPISCOPUS BEATISSIMO PRINCIPI, ET
-
-CLEMENTISSIMO IMPERATORI
-
-VALENTINIANO AUGUSTO
+ST. AMBROSIUS - EPISCOPUS BEATISSIMO PRINCIPI, ET CLEMENTISSIMO IMPERATORI VALENTINIANO AUGUSTO
 
 I. Cum vir clarissimus praefectus urbis Symmachus ad clementiam tuam retulisset, ut ara quae de urbis Romae curia sublata fuerat, redderetur loco; et tu, imperator, licet adhuc in minoris aevi tirocinio florentibus novus annis, fidei tamen virtute veteranus obsecrata gentilium non probares; eodem, quo comperi, puncto libellum obtuli: quo licet comprehenderim, quae suggestioni necessaria viderentur; poposci tamen exemplum mihi relationis dari.
 
@@ -101,8 +87,7 @@ X. Sed vetera, inquit, reddenda sunt altaria simulacris, ornamenta delubris. Rep
 XI. Dudum coepimus, et jam sequuntur exclusos. Nos sanguine gloriamur, illos dispendium movet. Nos haec victoriae loco ducimus, illi injuriam putant Numquam nobis amplius contulerunt, quam cum verberari christianos atque proscribi ac necari juberent. Praemium fecit religio, quod perfidia putabat esse supplicium. Videte magnanimos. Per injurias, per inopiam, per supplicium nos crevimus: illi ceremonias suas sine quaestu manere posse non credunt.
 
 
-ST. AUGUSTINUS
-DE MODO JUVENTUTIS ERUDIENDAE
+## ST. AUGUSTINUS - DE MODO JUVENTUTIS ERUDIENDAE
 
 I. Quid autem erat causae cur graecas litteras oderam, quibus puerulus imbuebar, ne nunc quidem mihi satis exploratum est. Adamaveram enim latinas, non quas primi magistri, sed quas docent qui grammatici vocantur. Nam illas primas ubi legere et scribere et numerare discitur, non minus onerosas poenalesque habebam, quam omnes graecas. Unde tamen et hoc nisi de peccato et vanitate vitae, quia caro eram, et spiritus ambulans et non revertens? (Ps. lxxvii. 39.) Nam utique meliores, quia certiores erant primae illae litterae, quibus fiebat in me, et factum est, et habeo illud ut et legam si quid scriptum invenio, et scribam ipse si quid volo, quam illae quibus tenere cogebar Aeneae nescio cujus errores, oblitus errorum meorum; et plorare Didonem mortuam, quia se occidit ob amorem, cum interea meipsum in his a te morientem, Deus vita mea, siccis oculis ferrem miserrimus.
 

@@ -18,10 +18,10 @@ If you find things to correct, pull requests or issues detailing them are welcom
 
 ## Contents
 
-1. Frontmatter
-2. Texts
-3. Notes
-4. Vocabulary
+1. [Frontmatter](/maloney-selections-from-the-latin-fathers/original/frontmatter)
+2. [Texts](/maloney-selections-from-the-latin-fathers/original/text)
+3. [Notes](/maloney-selections-from-the-latin-fathers/original/notes)
+4. [Vocabulary](/maloney-selections-from-the-latin-fathers/original/vocabulary)
 
 ### Questions?
 

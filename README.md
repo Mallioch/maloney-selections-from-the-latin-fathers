@@ -18,8 +18,8 @@ If you find things to correct, pull requests or issues detailing them are welcom
 
 ## Contents
 
-1. [Frontmatter](/maloney-selections-from-the-latin-fathers/original/frontmatter)
-2. [Texts](/maloney-selections-from-the-latin-fathers/original/text)
+1. [Frontmatter](/maloney-selections-from-the-latin-fathers/original/frontmatter) (corrected)
+2. [Texts](/maloney-selections-from-the-latin-fathers/original/text) (corrected)
 3. [Notes](/maloney-selections-from-the-latin-fathers/original/notes)
 4. [Vocabulary](/maloney-selections-from-the-latin-fathers/original/vocabulary)
 

@@ -1,20 +1,16 @@
 
-SELECTIONS FROM THE LATIN FATHERS
+# SELECTIONS FROM THE LATIN FATHERS
 
-WITH INTRODUCTION, NOTES, AND VOCABULARY
+## WITH INTRODUCTION, NOTES, AND VOCABULARY
 
-BY EDWARD R. MALONEY
+### BY EDWARD R. MALONEY
 
-Boston
-
-ALLYN AND BACON
-
-1900
+Boston, ALLYN AND BACON, 1900
 
 
 
 
-PREFACE
+## PREFACE
 
 The selections given here have been chosen carefully as characteristic specimens of the styles of the different periods they represent, in order to afford a basis for comparison, not only between the different periods of the early church, but between the Christian writers and those of classic times. The Introduction attempts to trace the origin and growth of Christian Latin, and the brief biographies in the Notes aim to give the student some idea of the life and influence of the writer he is studying.
 
@@ -27,11 +23,7 @@ Cambridge, Mass.,
 September, 1900.
 
 
-
-
-
-
-INTRODUCTION
+## INTRODUCTION
 
 The language in which these selections from the Latin Fathers is written is that of the post-classical period of Latin literature, and varies to a marked degree from that used by the classical writers. This post-classical, or Christian, Latin had its origin in the adoption by the Church of Latin as its official language, and grew out of the classic or pagan Latin, not by destroying and supplanting, but by reviving and purifying it.
 

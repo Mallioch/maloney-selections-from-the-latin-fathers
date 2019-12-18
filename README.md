@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Maloney's Selections from the Latin Fathers
 
-You can use the [editor on GitHub](https://github.com/Mallioch/maloney-selections-from-the-latin-fathers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A digitized and corrected version of Edward Maloney's Selections from the Latin Fathers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The Source
 
-### Markdown
+This book is in the public domain, and Archive.org had already scanned and digitized the work. [You can find their copy of this work here](https://archive.org/details/selectionsfromla00malorich), and their digitization was the basis for all of this. This corrected version of their digitization is therefore also in the public domain.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My Plans
 
-```markdown
-Syntax highlighted code block
+First of all, my goal is to create a corrected digital copy of this work. The scan that archive.org did is good, but I've already made a large number of corrections. So far I have corrected the frontmatter and the Latin texts of the work. The notions section of the book and the vocabulary in the back are both uncorrected. Once I've done this, I've done something useful and can stop.
 
-# Header 1
-## Header 2
-### Header 3
+On top of this, I am considering increasing the number of notes and reorganizing the material. Right now the notes and the vocaulary are separate from the text itself, so I am considering combining them to a more reader-style format. I am also considering creating a print-on-demand version because some people (like myself) prefer reading from printed books.
 
-- Bulleted
-- List
+## Contributions
 
-1. Numbered
-2. List
+If you find things to correct, pull requests or issues detailing them are welcome. But since only the frontmatter and text portions have been corrected, please don't open issues for the other sections. I am fully aware of the issues there. Pull requests to fix the other stuff, though, is welcome!
 
-**Bold** and _Italic_ and `Code` text
+## Contents
 
-[Link](url) and ![Image](src)
-```
+1. Frontmatter
+2. Texts
+3. Notes
+4. Vocabulary
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Questions?
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mallioch/maloney-selections-from-the-latin-fathers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[You can find contact information for me on my website](http://ericsowell.com/contact). Or you can open an issue here, I suppose.
